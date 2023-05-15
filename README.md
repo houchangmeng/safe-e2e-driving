@@ -1,17 +1,15 @@
 # End-to-end Autonomous Driving With Safety Constraints
 
-[[code]](https://github.com/houchangmeng?tab=repositories)  
-[[paper]](www.baidu.com)
+This is a PyTorch implementation of "End-to-end Autonomous Driving with Safety constraints" proposed in:
 
-This is a PyTorch implementation of "End-to-end Autonomous Driving with Safety constraint" proposed in:
-
-- ["End-to-end Safe Autonomous Driving with Safety constraint" by Hou, Changmeng, and Zhang, Wei.](https://openreview.net)  
+- ["End-to-end Safe Autonomous Driving with Safety constraints" by Changmeng Hou, and Wei Zhang.](https://openreview.net)  
   
-## Requirement
+## Requirements
 
 Ubuntu 20.04  
 Carla 0.9.13  
 Python 3.7.12  
+torch==1.13.1
 
 ## Installation
 
@@ -22,7 +20,7 @@ $ conda activate env_name
 ```
 2. Clone this git repo to an appropriate folder.
 ```
-$ git clone https://github.com ....
+$ git clone git@github.com:houchangmeng/safe-e2e-antunomous.git
 ```
 3. Enter the root folder of this repo and install the packages.
 ```
