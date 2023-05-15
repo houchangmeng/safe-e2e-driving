@@ -37,7 +37,7 @@ $ python train_safe.py
 
 Results on custom carla reinforcement environment are as follows.
 
-<img src="./images/learning_curve.png">
+<img src="./images/learning_curve.png" height="512" width="484">
 
 ### Ramp merging  
 <img src="./images/safe-merge.gif" height="256" width="384">
