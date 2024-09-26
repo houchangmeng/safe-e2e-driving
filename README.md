@@ -2,7 +2,7 @@
 
 This is a PyTorch implementation of "End-to-end Autonomous Driving with Safety constraints" proposed in:
 
-- ["End-to-end Safe Autonomous Driving with Safety constraints" by Changmeng Hou, and Wei Zhang.](https://openreview.net)  
+- ["End-to-end Safe Autonomous Driving with Safety constraints" by Changmeng Hou, and Wei Zhang.](https://ieeexplore.ieee.org/document/10679712?source=authoralert)  
   
 ## Requirements
 
@@ -61,7 +61,4 @@ Sample a sequence of camera, lidar and birdeye images.
 - The forth row shows the prior sample.
 - Left to right indicates flowing time steps.
 
-# Reference
-[[1]](https://openreview.net/forum?id=b39dQt_uffW)Yannick Hogewind, Thiago D. Simão, Tal Kachman, and Nils Jansen. "Safe Reinforcement Learning From Pixels Using a Stochastic Latent Representation" , ICLR 2023.  
-[[2]](https://arxiv.org/abs/2001.08726) Chen, Jianyu and Li, Shengbo Eben and Tomizuka, Masayoshi."Interpretable End-to-end Urban Autonomous Driving with Latent Deep Reinforcement Learning" arXiv preprint arXiv:2001.08726(2020).
 
